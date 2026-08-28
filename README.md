@@ -1,4 +1,4 @@
-# Face Detection using Haar Cascades with OpenCV and Matplotlib
+# EX-12 - Face Detection using Haar Cascades with OpenCV and Matplotlib
 ## Name: Raviprasath K
 ## Reg no: 212224230225
 ## Aim
