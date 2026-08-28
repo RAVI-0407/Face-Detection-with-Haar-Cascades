@@ -19,7 +19,7 @@ iv) Perform face detection with label in real-time video from webcam.
 ## Algorithm
 
 ```
- import cv2
+import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 import os
